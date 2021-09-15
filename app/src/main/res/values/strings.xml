@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsAppProjeto</string>
+    <string name="digite_email">Digite o seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="logar">Logar</string>
+    <string name="cadastrar">Não tem conta? Cadastre-se</string>
+    <string name="cadatrarP">Cadastrar</string>
+    <string name="digite_nome">Digite o seu nome</string>
+</resources>
