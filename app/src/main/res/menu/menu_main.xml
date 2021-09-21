@@ -6,6 +6,10 @@
             app:showAsAction="always"
             android:icon="@drawable/ic_pesquisa_branco_24dp"
             />
+        <item android:id="@+id/menugrupo"
+        android:title="Novo grupo"
+        app:showAsAction="never"
+        />
         <item android:id="@+id/menuConfiguracoes"
         android:title="Configurações"
         app:showAsAction="never"
@@ -14,4 +18,5 @@
         android:title="Sair"
         app:showAsAction="never"
         />
+
 </menu>

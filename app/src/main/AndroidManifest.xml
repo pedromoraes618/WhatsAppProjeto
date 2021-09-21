@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.whatsappprojeto">
+    package="com.example.whatsappprojeto" >
 
     <application
         android:allowBackup="true"
@@ -8,13 +8,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.WhatsAppProjeto">
+        android:theme="@style/Theme.WhatsAppProjeto" >
+        <activity
+            android:name=".activity.ConfiguracoesActivity"
+            android:exported="true"
+            android:parentActivityName=".activity.MainActivity"/>
         <activity
             android:name=".activity.CadastroActivity"
             android:exported="true" />
         <activity
             android:name=".activity.LoginActivity"
-            android:exported="true">
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

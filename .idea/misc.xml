@@ -4,11 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/drawable/ic_edit_verde_24dp.xml" value="0.309375" />
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/drawable/ic_pesquisa_branco_24dp.xml" value="0.15364583333333334" />
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/activity_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/activity_configuracoes.xml" value="0.33" />
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/fragment_contatos.xml" value="0.21" />
+        <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/fragment_conversas.xml" value="0.18" />
+        <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/fragment_status.xml" value="0.276268115942029" />
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/layout/toolbar.xml" value="0.2572463768115942" />
         <entry key="..\:/Users/pdmr1/AndroidStudioProjects/WhatsAppProjeto/app/src/main/res/menu/menu_main.xml" value="0.4" />
       </map>
